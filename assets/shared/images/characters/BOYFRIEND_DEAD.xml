@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="">
+<SubTexture name="BF Dead Loop0000" x="0" y="0" width="0" height="0"/>
+<SubTexture name="BF Dead confirm0000" x="0" y="0" width="0" height="0"/>
+<SubTexture name="BF dies0000" x="0" y="0" width="0" height="0"/>
+</TextureAtlas>
